@@ -1,6 +1,8 @@
-<!-- =========================
-     PROFILE HEADER
-========================= -->
+<!-- ========================================================= -->
+
+<!--                     PROFILE HEADER                       -->
+
+<!-- ========================================================= -->
 
 <h1 align="center">👋 Hi, I'm Dharmana Lokesh</h1>
 
@@ -13,12 +15,19 @@
 </p>
 
 <p align="center">
-  <a href="mailto:lokeshdarmana@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/DharmanAlokesh">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
+<a href="mailto:lokeshdarmana@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dharmana-lokesh-290396268">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/DharmanaLokesh">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -27,43 +36,45 @@
 
 🎓 B.Tech Graduate in **Electronics and Communication Engineering**
 
-📊 Detail-oriented **Data Analyst** with hands-on experience in data collection, cleaning, validation, trend analysis and dashboard development.
+📊 Detail-oriented **Data Analyst** with hands-on experience in data collection, cleansing, validation, trend analysis, and dashboard development.
 
-🐍 Skilled in **Python, SQL, Microsoft Excel, Power BI, Tableau, Pandas and NumPy**.
+🐍 Skilled in **Python, SQL, Microsoft Excel, Power BI, Tableau, Pandas, and NumPy**.
 
-📈 Experienced in **Data Cleaning, Data Transformation, EDA, Trend Analysis, Pattern Analysis, KPI Reporting and Statistical Analysis**.
+📈 Experienced in **Data Cleaning, Data Validation, Data Transformation, Trend Analysis, Pattern Analysis, KPI Reporting, Statistical Analysis, and Dashboard Development**.
 
-🤖 Gained practical experience in **Artificial Intelligence, Machine Learning and Generative AI** through internships.
+🤖 Gained practical experience in **Artificial Intelligence and Machine Learning** through internships and hands-on projects.
 
-☁️ Worked with **AWS and cloud-based applications**.
+☁️ Worked with **Python, AWS, Generative AI, and cloud-based applications**.
 
-🚀 Passionate about turning data into insights that support **business growth and strategic decision-making**.
+🚀 Passionate about transforming raw data into **actionable insights that support business growth and strategic decision-making**.
 
-📍 Hyderabad, Telangana
+📍 **Hyderabad, Telangana**
 
 ---
 
-# 🌐 Socials
+# 🌐 Connect With Me
 
 <p align="left">
 
-<a href="mailto:lokeshdarmana@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/in/dharmana-lokesh-290396268">
+<img src="https://img.shields.io/badge/LinkedIn-Dharmana%20Lokesh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/DharmanAlokesh">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="mailto:lokeshdarmana@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-lokeshdarmana%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/DharmanaLokesh">
+<img src="https://img.shields.io/badge/GitHub-DharmanaLokesh-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
-
-> 🔗 Add your LinkedIn URL to the README once you have it available.
 
 ---
 
 # 💻 Tech Stack
 
-### 🐍 Programming & Query Languages
+## 🐍 Programming & Query Languages
 
 <p>
 
@@ -73,8 +84,9 @@
 
 </p>
 
+---
 
-### 📊 Data Analytics
+## 📊 Data Analysis
 
 <p>
 
@@ -86,12 +98,13 @@
 
 </p>
 
+---
 
-### 📈 Business Intelligence & Visualization
+## 📈 Business Intelligence & Visualization
 
 <p>
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
@@ -101,8 +114,9 @@
 
 </p>
 
+---
 
-### 🗄️ Database
+## 🗄️ Database
 
 <p>
 
@@ -110,23 +124,25 @@
 
 </p>
 
+---
 
-### 🤖 AI & Cloud
+## 🤖 AI & Cloud
 
 <p>
 
-<img src="https://img.shields.io/badge/Artificial_Intelligence-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-6C63FF?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Generative_AI-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-8E44AD?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 </p>
 
+---
 
-### 🔧 Tools
+## 🔧 Tools & Frameworks
 
 <p>
 
@@ -140,30 +156,55 @@
 
 ---
 
+# 📊 Data Analytics Expertise
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Validation-2196F3?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Transformation-9C27B0?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/EDA-FF9800?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Trend%20Analysis-E91E63?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Pattern%20Analysis-673AB7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/KPI%20Reporting-795548?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Statistical%20Analysis-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Dashboard%20Development-607D8B?style=for-the-badge"/>
+
+</p>
+
+---
+
 # 💼 Experience
 
 ## 🤖 Artificial Intelligence Intern — Skill Dzire
 
-**Nov 2025 – Apr 2026**
+**November 2025 – April 2026**
 
-- Worked with **5+ real-world datasets and case studies**
-- Applied Artificial Intelligence and Machine Learning concepts
-- Performed data preprocessing and analysis using **Python**
-- Completed **3 hands-on Machine Learning projects**
-- Strengthened analytical and problem-solving skills
+* Applied AI and Machine Learning concepts across **5+ real-world datasets and case studies**.
+* Improved model interpretation accuracy by **15%**.
+* Performed data preprocessing and analysis using **Python**.
+* Reduced data-cleaning time by **20%**.
+* Completed **3 hands-on Machine Learning projects**.
 
 ---
 
 ## ☁️ Gen AI & AWS Intern — Techwing
 
-**Aug 2024 – Jul 2025**
+**August 2024 – July 2025**
 
-- Worked with **Python and AWS services**
-- Developed **2 AI-enabled cloud solutions**
-- Analyzed datasets using Python
-- Automated workflows using Python
-- Collaborated with a **4-member team**
-- Worked on cloud-based application deployment
+* Worked with **Python and AWS services** to develop **2 AI-enabled cloud solutions**.
+* Analyzed datasets using Python to automate workflows.
+* Reduced manual effort by **25%** through workflow automation.
+* Collaborated with a **4-member team** to deploy cloud-based applications.
+* Improved application performance by **18%**.
 
 ---
 
@@ -174,51 +215,53 @@
 
 <td width="50%" valign="top">
 
-<h3>🎬 Amazon Prime Video Data Analysis</h3>
+<h2>🎬 Amazon Prime Video Data Analysis</h2>
 
 <p>
-<b>Python • Pandas • Power BI • Seaborn • Matplotlib</b>
+<b>Python • Pandas • Seaborn • Matplotlib • Power BI</b>
 </p>
 
-📌 **9,000+ rows**
+<p>📌 <b>9,000+ rows</b></p>
 
-• Data cleaning & standardization
+• Cleaned and standardized the dataset using Python and Pandas.
 
-• Exploratory Data Analysis
+• Performed Exploratory Data Analysis.
 
-• Genre analysis
+• Analyzed trends across <b>10+ genres</b>.
 
-• Rating pattern analysis
+• Studied content rating patterns.
 
-• Release trend analysis
+• Analyzed release trends.
 
-• Interactive Power BI dashboard
+• Built an interactive <b>Power BI dashboard</b>.
 
-• Business insights for content strategy
+• Generated data-driven insights for content strategy and decision-making.
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>📝 Attendance Management System</h3>
+<h2>📝 Attendance Management System</h2>
 
 <p>
 <b>Python • Pandas • Flask • Excel</b>
 </p>
 
-📌 **200+ students**
+<p>📌 <b>200+ students</b></p>
 
-• Automated attendance tracking
+• Developed an automated attendance management system.
 
-• Student master-data comparison
+• Recorded and tracked attendance data.
 
-• Data processing using Pandas
+• Organized attendance records using Python and Pandas.
 
-• Automated attendance reports
+• Compared daily records against master student data.
 
-• Reduced manual verification
+• Automated manual verification.
 
-• Reduced administrative workload
+• Generated structured attendance reports.
+
+• Reduced administrative workload through automation.
 
 </td>
 
@@ -228,49 +271,55 @@
 
 <td width="50%" valign="top">
 
-<h3>🤖 Group Discussion with AI</h3>
+<h2>🤖 Group Discussion with AI</h2>
 
 <p>
 <b>Python • Flask • Speech Recognition • Text-to-Speech</b>
 </p>
 
-📌 **Up to 6 participants**
+<p>📌 <b>Up to 6 participants</b></p>
 
-• Real-time group discussions
+• Developed an AI-powered web application.
 
-• Speech recognition
+• Enabled real-time group discussions.
 
-• Text-to-speech
+• Integrated Speech Recognition.
 
-• Automated feedback generation
+• Integrated Text-to-Speech.
 
-• Communication performance evaluation
+• Generated automated feedback.
 
-• Evaluation across 4 metrics
+• Evaluated communication and discussion performance across <b>4 metrics</b>.
+
+• Built the application using Flask.
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>📊 Data Analytics Skills</h3>
+<h2>📊 Analytics Focus</h2>
 
 <p>
-<b>Python • SQL • Excel • Power BI • Tableau</b>
+<b>SQL • Python • Excel • Power BI • Tableau</b>
 </p>
 
-📌 **Business-focused analytics**
+<p>Focused on:</p>
 
-• Data Cleaning
+🧹 Data Cleaning
 
-• Data Validation
+🔍 Data Validation
 
-• Data Transformation
+🔄 Data Transformation
 
-• Trend Analysis
+📈 Trend Analysis
 
-• KPI Reporting
+🔎 Pattern Analysis
 
-• Dashboard Development
+📊 KPI Reporting
+
+📉 Statistical Analysis
+
+📋 Dashboard Development
 
 </td>
 
@@ -279,35 +328,13 @@
 
 ---
 
-# 📊 Data Analytics Expertise
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Data_Cleaning-4CAF50?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data_Validation-2196F3?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data_Transformation-9C27B0?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/EDA-FF9800?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Trend_Analysis-E91E63?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/KPI_Reporting-795548?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Dashboard_Development-607D8B?style=for-the-badge"/>
-
-</p>
-
----
-
 # 🎓 Education
 
-### 🏫 Godavari Institute of Engineering and Technology
+## 🏫 Godavari Institute of Engineering and Technology
 
-**Bachelor of Technology — Electronics and Communication Engineering**
+### Bachelor of Technology — Electronics and Communication Engineering
 
-📅 September 2022 – April 2026
+📅 **September 2022 – April 2026**
 
 🎯 **CGPA: 8.14**
 
@@ -317,13 +344,13 @@
 
 <p>
 
-<img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/IBM-Python_for_Data_Science-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+<img src="https://img.shields.io/badge/IBM-Python%20for%20Data%20Science-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Skill_Dzire-Artificial_Intelligence-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Skill%20Dzire-Artificial%20Intelligence-6C63FF?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Cloud-Introduction_to_Cloud_Computing-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud-Introduction%20to%20Cloud%20Computing-4285F4?style=for-the-badge"/>
 
 </p>
 
@@ -334,10 +361,10 @@
 <p align="center">
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api?username=Dharmanalokesh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+src="https://github-readme-stats.vercel.app/api?username=DharmanaLokesh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmanalokesh&layout=compact&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharmanaLokesh&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -347,7 +374,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmanaloke
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Dharmanalokesh&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=DharmanaLokesh&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -357,7 +384,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmanaloke
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dharmanalokesh&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DharmanaLokesh&theme=tokyonight"/>
 
 </p>
 
@@ -368,13 +395,13 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmanaloke
 <p align="center">
 
 📊 <b>Data Analytics</b>
-&nbsp;&nbsp; • &nbsp;&nbsp;
+  •  
 📈 <b>Business Intelligence</b>
-&nbsp;&nbsp; • &nbsp;&nbsp;
+  •  
 🐍 <b>Python & SQL</b>
-&nbsp;&nbsp; • &nbsp;&nbsp;
+  •  
 📑 <b>Excel & Power BI</b>
-&nbsp;&nbsp; • &nbsp;&nbsp;
+  •  
 🤖 <b>AI & GenAI</b>
 
 </p>
@@ -389,8 +416,12 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmanaloke
 <img src="https://img.shields.io/badge/Email-lokeshdarmana%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/DharmanAlokesh">
-<img src="https://img.shields.io/badge/GitHub-DharmanAlokesh-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.linkedin.com/in/dharmana-lokesh-290396268">
+<img src="https://img.shields.io/badge/LinkedIn-Dharmana%20Lokesh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/DharmanaLokesh">
+<img src="https://img.shields.io/badge/GitHub-DharmanaLokesh-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -399,7 +430,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmanaloke
 
 <p align="center">
 
-### 💡 Data → Insights → Decisions
+### 💡 Data → Insights → Decisions 📊
 
 ⭐ <b>Thanks for visiting my profile!</b> ⭐
 
